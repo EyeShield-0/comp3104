@@ -1,2 +1,2 @@
 # comp3104
-** Hello World
+Hello World
